@@ -20,8 +20,6 @@ Scaffold. Contract DSL, evaluation engine, allocation, and saga orchestration ar
 
 ## Documents
 
-- [Product overview](11-programmable-b2b-commerce.md)
-- [PRD](11-d01-prd.md)
 - [Architecture](docs/architecture.md)
 
 ## Quick start
