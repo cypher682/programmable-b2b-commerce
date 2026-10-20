@@ -2,8 +2,6 @@
 
 Multi-tenant platform where buyers and sellers define commercial contracts — volume commitments, tiered pricing, allocation priority, quality gates, payment terms, penalties — that execute as durable, auditable workflows across organizational boundaries.
 
-Part of the [flagship portfolio](https://github.com/cypher682/flagship-portfolio).
-
 ## Status
 
 Scaffold. Contract DSL, evaluation engine, allocation, and saga orchestration are not implemented yet.
